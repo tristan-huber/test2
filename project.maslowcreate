@@ -13,19 +13,19 @@
     "topLevel": true,
     "allAtoms": [
         {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.98,
-            "y": 0.5,
-            "uniqueID": 1715987891042,
-            "ioValues": []
-        },
-        {
             "atomType": "Input",
             "name": 1715988659543,
             "x": 0.013333333333333334,
             "y": 0.46052631578947373,
             "uniqueID": 1715988659543,
+            "ioValues": []
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1715987891042,
             "ioValues": []
         }
     ],

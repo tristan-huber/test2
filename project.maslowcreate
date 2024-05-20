@@ -42,10 +42,7 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [
-        null,
-        null
-    ],
+    "allConnectors": [],
     "fileTypeVersion": 1,
     "unitsIndex": 0,
     "filetypeVersion": 1

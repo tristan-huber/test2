@@ -40,6 +40,42 @@
             "y": 0.5,
             "uniqueID": 1715987891042,
             "ioValues": []
+        },
+        {
+            "atomType": "Code",
+            "name": "Code",
+            "x": 0.385546875,
+            "y": 0.5369458128078818,
+            "uniqueID": 1716223806848,
+            "ioValues": [
+                {
+                    "name": "Input1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Input2",
+                    "ioValue": 10
+                }
+            ],
+            "code": "//Inputs:[Input1, Input2];\n\n\nreturn [drawRectangle(5,10)]\n//what you return should be a replicad geometry\n\n//Learn more about all of the available methods at \n //https://replicad.xyz/docs/introapp/UserGuide.html \n"
+        },
+        {
+            "atomType": "Code",
+            "name": "Code",
+            "x": 0.6703125,
+            "y": 0.34646962233169126,
+            "uniqueID": 1716223819823,
+            "ioValues": [
+                {
+                    "name": "Input1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Input2",
+                    "ioValue": 10
+                }
+            ],
+            "code": "//Inputs:[Input1, Input2];\n\n\nreturn [drawRectangle(5,10)]\n//what you return should be a replicad geometry\n\n//Learn more about all of the available methods at \n //https://replicad.xyz/docs/introapp/UserGuide.html \n"
         }
     ],
     "allConnectors": [],

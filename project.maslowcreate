@@ -21,14 +21,6 @@
             "ioValues": []
         },
         {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.98,
-            "y": 0.5,
-            "uniqueID": 1715987891042,
-            "ioValues": []
-        },
-        {
             "atomType": "Circle",
             "name": "Circle",
             "x": 0.2022292993630573,
@@ -40,6 +32,14 @@
                     "ioValue": 10
                 }
             ]
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1715987891042,
+            "ioValues": []
         }
     ],
     "allConnectors": [

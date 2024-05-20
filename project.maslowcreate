@@ -21,27 +21,6 @@
             "ioValues": []
         },
         {
-            "atomType": "Circle",
-            "name": "Circle",
-            "x": 0.2022292993630573,
-            "y": 0.6538461538461539,
-            "uniqueID": 1716222559071,
-            "ioValues": [
-                {
-                    "name": "diameter",
-                    "ioValue": 10
-                }
-            ]
-        },
-        {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.98,
-            "y": 0.5,
-            "uniqueID": 1715987891042,
-            "ioValues": []
-        },
-        {
             "atomType": "Code",
             "name": "Code",
             "x": 0.385546875,
@@ -60,6 +39,19 @@
             "code": "//Inputs:[Input1, Input2];\n\n\nreturn [drawRectangle(5,10)]\n//what you return should be a replicad geometry\n\n//Learn more about all of the available methods at \n //https://replicad.xyz/docs/introapp/UserGuide.html \n"
         },
         {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.2022292993630573,
+            "y": 0.6538461538461539,
+            "uniqueID": 1716222559071,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Code",
             "name": "Code",
             "x": 0.6703125,
@@ -76,6 +68,14 @@
                 }
             ],
             "code": "//Inputs:[Input1, Input2];\n\n\nreturn [drawRectangle(5,10)]\n//what you return should be a replicad geometry\n\n//Learn more about all of the available methods at \n //https://replicad.xyz/docs/introapp/UserGuide.html \n"
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1715987891042,
+            "ioValues": []
         }
     ],
     "allConnectors": [],

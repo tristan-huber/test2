@@ -23,7 +23,7 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.41878980891719747,
+            "x": 0.4179936305732484,
             "y": 0.35253456221198154,
             "uniqueID": 1716399232882,
             "ioValues": [
@@ -32,14 +32,6 @@
                     "ioValue": 10
                 }
             ]
-        },
-        {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.9912420382165605,
-            "y": 0.5433212996389891,
-            "uniqueID": 1715987891042,
-            "ioValues": []
         },
         {
             "atomType": "Extrude",
@@ -57,6 +49,22 @@
                     "ioValue": 10
                 }
             ]
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9912420382165605,
+            "y": 0.5433212996389891,
+            "uniqueID": 1715987891042,
+            "ioValues": []
+        },
+        {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.6783439490445861,
+            "y": 0.3433179723502304,
+            "uniqueID": 1716400083884,
+            "ioValues": []
         }
     ],
     "allConnectors": [

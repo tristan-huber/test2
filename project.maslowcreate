@@ -16,7 +16,7 @@
             "atomType": "Input",
             "name": 1716399242082,
             "x": 0.013333333333333334,
-            "y": 0.30184331797235026,
+            "y": 0.33410138248847926,
             "uniqueID": 1716399242082,
             "ioValues": []
         },
@@ -44,8 +44,8 @@
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.5668789808917197,
-            "y": 0.6658986175115208,
+            "x": 0.572452229299363,
+            "y": 0.7258064516129032,
             "uniqueID": 1716399316556,
             "ioValues": [
                 {
@@ -64,7 +64,12 @@
             "x": 0.9785031847133758,
             "y": 0.6175115207373272,
             "uniqueID": 1715987891042,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1716399316556
+                }
+            ]
         }
     ],
     "allConnectors": [
@@ -88,6 +93,13 @@
             "ap2Primary": true,
             "ap1ID": 1716399232882,
             "ap2ID": 1716399316556
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 1716399316556,
+            "ap2ID": 1715987891042
         }
     ],
     "fileTypeVersion": 1,

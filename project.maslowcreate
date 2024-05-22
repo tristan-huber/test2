@@ -4,7 +4,12 @@
     "x": 0,
     "y": 0,
     "uniqueID": 1715987882311,
-    "ioValues": [],
+    "ioValues": [
+        {
+            "name": 1716399242082,
+            "ioValue": 10
+        }
+    ],
     "topLevel": true,
     "allAtoms": [
         {
@@ -14,9 +19,32 @@
             "y": 0.5433212996389891,
             "uniqueID": 1715987891042,
             "ioValues": []
+        },
+        {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.39490445859872614,
+            "y": 0.5898617511520737,
+            "uniqueID": 1716399232882,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Input",
+            "name": 1716399242082,
+            "x": 0.013333333333333334,
+            "y": 0.315668202764977,
+            "uniqueID": 1716399242082,
+            "ioValues": []
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        null
+    ],
     "fileTypeVersion": 1,
     "unitsIndex": 0,
     "filetypeVersion": 1

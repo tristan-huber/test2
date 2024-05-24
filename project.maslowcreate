@@ -47,9 +47,9 @@
         },
         {
             "atomType": "Equation",
-            "name": "x + y + z + q + r",
-            "x": 0.34062499999999996,
-            "y": 0.695852534562212,
+            "name": "x + y + z + q + r + F",
+            "x": 0.4026041666666667,
+            "y": 0.7034482758620689,
             "uniqueID": 1716575193446,
             "ioValues": [
                 {
@@ -71,9 +71,13 @@
                 {
                     "name": "r",
                     "ioValue": 10
+                },
+                {
+                    "name": "F",
+                    "ioValue": 1
                 }
             ],
-            "currentEquation": "x + y + z + q + r"
+            "currentEquation": "x + y + z + q + r + F"
         },
         {
             "atomType": "Extrude",
@@ -88,7 +92,7 @@
                 },
                 {
                     "name": "height",
-                    "ioValue": 23
+                    "ioValue": 24
                 }
             ]
         },

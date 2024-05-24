@@ -42,7 +42,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": 1716399232882
+                    "ioValue": ""
                 },
                 {
                     "name": "height",
@@ -62,6 +62,36 @@
                     "ioValue": 1716399316556
                 }
             ]
+        },
+        {
+            "atomType": "Equation",
+            "name": "x + y + z + q + r",
+            "x": 0.6458333333333334,
+            "y": 0.29195402298850576,
+            "uniqueID": 1716575193446,
+            "ioValues": [
+                {
+                    "name": "x",
+                    "ioValue": 1
+                },
+                {
+                    "name": "y",
+                    "ioValue": 1
+                },
+                {
+                    "name": "z",
+                    "ioValue": 1
+                },
+                {
+                    "name": "q",
+                    "ioValue": 1
+                },
+                {
+                    "name": "r",
+                    "ioValue": 1
+                }
+            ],
+            "currentEquation": "x + y + z + q + r"
         }
     ],
     "allConnectors": [
@@ -77,13 +107,6 @@
             "ap2Name": "height",
             "ap2Primary": false,
             "ap1ID": 1716399242082,
-            "ap2ID": 1716399316556
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1716399232882,
             "ap2ID": 1716399316556
         },
         {

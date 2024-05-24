@@ -63,6 +63,23 @@
             ]
         },
         {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.7182291666666666,
+            "y": 0.1724137931034483,
+            "uniqueID": 1716579586775,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Equation",
             "name": "x + y + z + q + r + F",
             "x": 0.4026041666666667,
@@ -106,23 +123,6 @@
                 {
                     "name": "number or geometry",
                     "ioValue": 1716399316556
-                }
-            ]
-        },
-        {
-            "atomType": "Rectangle",
-            "name": "Rectangle",
-            "x": 0.7182291666666666,
-            "y": 0.1724137931034483,
-            "uniqueID": 1716579586775,
-            "ioValues": [
-                {
-                    "name": "x length",
-                    "ioValue": 10
-                },
-                {
-                    "name": "y length",
-                    "ioValue": 10
                 }
             ]
         }

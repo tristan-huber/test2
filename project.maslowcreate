@@ -46,23 +46,6 @@
             "ioValues": []
         },
         {
-            "atomType": "Extrude",
-            "name": "Extrude",
-            "x": 0.5432291666666667,
-            "y": 0.4815668202764977,
-            "uniqueID": 1716399316556,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": 1716399232882
-                },
-                {
-                    "name": "height",
-                    "ioValue": 23
-                }
-            ]
-        },
-        {
             "atomType": "Equation",
             "name": "x + y + z + q + r",
             "x": 0.3317708333333333,
@@ -91,6 +74,23 @@
                 }
             ],
             "currentEquation": "x + y + z + q + r"
+        },
+        {
+            "atomType": "Extrude",
+            "name": "Extrude",
+            "x": 0.5432291666666667,
+            "y": 0.4815668202764977,
+            "uniqueID": 1716399316556,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1716399232882
+                },
+                {
+                    "name": "height",
+                    "ioValue": 23
+                }
+            ]
         },
         {
             "atomType": "Output",
@@ -136,18 +136,18 @@
             "ap2ID": 1716575193446
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 1716399316556,
-            "ap2ID": 1715987891042
-        },
-        {
             "ap1Name": "result",
             "ap2Name": "height",
             "ap2Primary": false,
             "ap1ID": 1716575193446,
             "ap2ID": 1716399316556
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 1716399316556,
+            "ap2ID": 1715987891042
         }
     ],
     "fileTypeVersion": 1,

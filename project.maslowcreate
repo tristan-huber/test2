@@ -34,14 +34,6 @@
             ]
         },
         {
-            "atomType": "Assembly",
-            "name": "Assembly",
-            "x": 0.6783439490445861,
-            "y": 0.3433179723502304,
-            "uniqueID": 1716400083884,
-            "ioValues": []
-        },
-        {
             "atomType": "Extrude",
             "name": "Extrude",
             "x": 0.572452229299363,

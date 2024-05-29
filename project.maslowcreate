@@ -25,14 +25,6 @@
             "ioValues": []
         },
         {
-            "atomType": "Input",
-            "name": 1716575389064,
-            "x": 0.013333333333333334,
-            "y": 0.48735632183908045,
-            "uniqueID": 1716575389064,
-            "ioValues": []
-        },
-        {
             "atomType": "Circle",
             "name": "Circle",
             "x": 0.3890625,
@@ -44,6 +36,14 @@
                     "ioValue": 10
                 }
             ]
+        },
+        {
+            "atomType": "Input",
+            "name": 1716575389064,
+            "x": 0.013333333333333334,
+            "y": 0.48735632183908045,
+            "uniqueID": 1716575389064,
+            "ioValues": []
         },
         {
             "atomType": "Extrude",
@@ -136,18 +136,18 @@
             "ap2ID": 1716399232882
         },
         {
-            "ap1Name": "number or geometry",
-            "ap2Name": "y",
-            "ap2Primary": false,
-            "ap1ID": 1716575389064,
-            "ap2ID": 1716575193446
-        },
-        {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 1716399232882,
             "ap2ID": 1716399316556
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "y",
+            "ap2Primary": false,
+            "ap1ID": 1716575389064,
+            "ap2ID": 1716575193446
         },
         {
             "ap1Name": "geometry",

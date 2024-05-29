@@ -58,13 +58,13 @@
                 },
                 {
                     "name": "height",
-                    "ioValue": 15
+                    "ioValue": 23
                 }
             ]
         },
         {
             "atomType": "Equation",
-            "name": "x + y + z + q + r + F",
+            "name": "x + y + z + q + r",
             "x": 0.4026041666666667,
             "y": 0.7034482758620689,
             "uniqueID": 1716575193446,
@@ -83,18 +83,14 @@
                 },
                 {
                     "name": "q",
-                    "ioValue": 1
+                    "ioValue": 10
                 },
                 {
                     "name": "r",
                     "ioValue": 1
-                },
-                {
-                    "name": "F",
-                    "ioValue": 1
                 }
             ],
-            "currentEquation": "x + y + z + q + r + F"
+            "currentEquation": "x + y + z + q + r"
         },
         {
             "atomType": "Rectangle",
@@ -105,11 +101,11 @@
             "ioValues": [
                 {
                     "name": "x length",
-                    "ioValue": 15
+                    "ioValue": 10
                 },
                 {
                     "name": "y length",
-                    "ioValue": 10
+                    "ioValue": 23
                 }
             ]
         },
@@ -150,6 +146,13 @@
             "ap2ID": 1716575193446
         },
         {
+            "ap1Name": "number or geometry",
+            "ap2Name": "q",
+            "ap2Primary": false,
+            "ap1ID": 1716575389064,
+            "ap2ID": 1716575193446
+        },
+        {
             "ap1Name": "geometry",
             "ap2Name": "number or geometry",
             "ap2Primary": false,
@@ -165,7 +168,7 @@
         },
         {
             "ap1Name": "result",
-            "ap2Name": "x length",
+            "ap2Name": "y length",
             "ap2Primary": false,
             "ap1ID": 1716575193446,
             "ap2ID": 1716579586775
